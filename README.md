@@ -1,5 +1,5 @@
 # XMARTY_MUSIC
-<h2 align="centre">🎵 xᴍᴀʀᴛʏ ᴍᴜꜱɪᴄ ʙᴏᴛ 🎵</h2>
+<h2 align="centre">🎵 Devil ᴍᴜꜱɪᴄ ʙᴏᴛ 🎵</h2>
 
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄᴀʟʟ 
 
@@ -29,14 +29,14 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/XMARTY_MUSIC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/DevilMusicBot)
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/Xmarty_Music&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USER)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/S780821/DevilMusicBot&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,SUDO_USER)
 
 ### ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ
 Use [Repl Link](https://replit.com/@S780821/PyrogramSession) to get pyrogram string session
 
 
 
-# .•♫•♬• ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ xᴍᴀʀᴛɪᴇs ʀᴇᴘᴏ •♫•♬•
+# .•♫•♬• ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ Devil ʀᴇᴘᴏ •♫•♬•
