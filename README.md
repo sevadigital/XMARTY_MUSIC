@@ -4,7 +4,7 @@
 ### ᴀ ʙᴏᴛ ᴛʜᴀᴛ ᴄᴀɴ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴏɴ ᴠᴏɪᴄᴇ ᴄᴀʟʟ 
 
 <p align="center">
-  <img src="https://telegra.ph/file/3aa55e7efe0fabf05da4e.jpg">
+  <img src="https://telegra.ph/file/c828752ea57c2519bae0f.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
